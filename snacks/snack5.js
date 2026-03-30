@@ -10,3 +10,4 @@ for (let i = 0; i < lista.length; i++) {
     }
 }
 console.log(`il numero ${numero} è presente ${ripetizioni} volte nella lista`);
+alert(`il numero ${numero} è presente ${ripetizioni} volte nella lista`);
