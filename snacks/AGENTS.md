@@ -19,3 +19,9 @@
 - Non modificare `index.html` a meno che non venga richiesto.
 - Lavora su un solo file JS alla volta (uno script attivo per volta in `index.html`).
 - Quando modifichi il codice, mantieni la logica semplice e leggibile (livello base didattico).
+
+## Agent Confirmation Rule
+- L'agent NON deve modificare nessun file senza prima chiedere conferma esplicita nella chat.
+- Prima propone la soluzione, spiega cosa vuole cambiare e aspetta il mio "OK".
+- Solo dopo la mia conferma può applicare le modifiche ai file.
+- Se non riceve conferma, NON deve toccare il codice.
